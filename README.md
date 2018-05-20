@@ -1,2 +1,3 @@
 # Dynamic-Scheduler
-A task scheduling app capable of quickly adapting to unexpected events. Developed primarily for personal use, so no guarantees.
+
+A scheduling app capable of quickly adapting to unexpected events. Developed for personal use, so it is not guaranteed that it will work on your device. Use it at your own risk.
